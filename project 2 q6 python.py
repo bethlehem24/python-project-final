@@ -62,6 +62,6 @@ candy_cart_bonus = select_candies(candies)
 
 # To Print candies selected in the bonus 
 
-print("Candies you selected in the bonus :")
+print("Candies you selected are in the bonus :")
 for candy in candy_cart_bonus:
     print(candy)
